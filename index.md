@@ -5,3 +5,4 @@
 ## 书籍下载
 * [Library Genesis](http://gen.lib.rus.ec/)
 * [Z-Library](https://z-lib.org/)
+# [Books & Notes](/new.md)
